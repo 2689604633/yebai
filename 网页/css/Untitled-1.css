@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-brand img{
+	width: 80px;
+}  
+#nav ul li a{
+	color: white;
+
+	font-size: 20px;
+	font-weight: 900;
+}
+#nav ul li{
+	margin: 0 50px;
+}
+#nav ul li a:hover{
+	color: #6B6B6B;
+}
+.fj_1{
+	margin: 30px 0;
+}
+.fj_2{
+	text-align: center;
+}
+.fj_2 h2{
+	font-weight: bold;
+	cursor: pointer;
+}
+.fj_2 h2:hover{
+	color: red;
+}
+.fj_2 p{
+	color: #333333;
+	font-size: 14px;
+	cursor: pointer;
+	margin: 20px 0;
+}
+.fj_2 p:hover{
+	color: #9B9B9B;
+}
+.np_1{
+	text-align: center;
+	padding: 10px 0;
+	border-bottom: 1px solid #ff4500;
+}
+.np_3 img{
+	width: 100%;
+	height: 220px;
+}
+.np_2{
+	margin: 20px 0;
+}
+#lbt .carousel-inner .carousel-item img{
+	width: 526px;
+	height: 300px;
+}
+#lbt ul li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+#lbt02 .carousel-inner .carousel-item img{
+	width: 526px;
+	height: 300px;
+}
+#lbt02 ul li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+#lbt01 .carousel-inner .carousel-item img{
+	width: 100%;
+	height: 600px;
+}
+#lbt01 ul li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.jd_2 p{
+	margin: 23px 0;
+}
+.jd{
+	margin: 20px 0;
+}
+.bj{
+	margin: 20px 0;
+}
+.bj_3 h5{
+	font-size: 18px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.bj_3{
+	margin: 15px 0;
+}
+.bj_2 img{
+	width: 255px;
+	height: 200px;
+}
+.bj_1{
+	margin: 10px 0;
+}
+#lbt01{
+	padding: 20px 0;
+}
+.bj_3 p{
+	text-indent: 2em!important;
+}
+.bj_3 h5:hover{
+	color: #E50003;
+}
+.cp img{
+	width: 100%;
+	height: 100px;
+	margin: 20px 0;
+}
+.pp h4{
+	font-size: 25px;
+
+	font-weight: bold;
+}
+.pp_1{
+	margin: 20px 0;
+}
+.sm p{
+	color: #999999;
+	font-size: 14px;
+}
+.sm{
+	padding:  30px 0 10px 0;
+		}
